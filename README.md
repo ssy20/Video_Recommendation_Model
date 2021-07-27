@@ -12,4 +12,6 @@ Given information about videos uploaded on an online video streaming company, bu
 - video_quality : quality of the video. 
 
 # Porject description 
-Classify videos based on two dimensions: the daily percentage change of view counts and the average view counts 
+Classify videos based on two dimensions: the daily percentage change of view counts and the average view counts. Using these two dimensions, the videos can be separated into 3 groups: the trending videos, the stable but popular videos, and everything else. The trending and popular videos are the candidate to be shown on the home page. 
+
+Once all the videos are labeled 
