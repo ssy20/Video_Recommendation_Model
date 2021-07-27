@@ -17,6 +17,6 @@ Classify videos based on two dimensions: the daily percentage change of view cou
 Once all the videos are labeled, identify the main characteristics of the trending videos using decision tree.
 
 # Model result
-Approximately 18% of all the videos are labeled as trending videos, 10% of them are labeled as popular videos. On average, the percentage change of daily view counts of trending videos is 2%.
+Approximately 18% of all the videos are labeled as trending videos, 10% of all the videos are labeled as popular videos. On average, the percentage change of daily view counts of trending videos is 2%.
 
 Videos that are uploaded recently are more likely to be trending videos. Besides time recency, shorter videos are more likely gain popularity. Videos in English have a slightly better chance of being popular than videos in other languages.
