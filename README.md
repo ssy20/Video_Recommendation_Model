@@ -18,3 +18,4 @@ Once all the videos are labeled, identify the main characteristics of the trendi
 
 # Model result
 
+Videos that are uploaded recently are more likely to be trending videos. Besides time recency, shorter videos are more likely gain popularity. Videos in English have a slightly better chance of being popular than videos in other languages.
