@@ -1,2 +1,3 @@
 # Video_Recommendation_Model
-Cluster videos based on popularity and identify the characteristics of the trending videos
+Given information about videos uploaded on an online video streaming company, build a model decide which videos should be promoted on the home-page. 
+
